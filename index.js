@@ -6,7 +6,7 @@
 
 
 
-    let birthday = " May 6,2024 00:00:00",
+    let birthday = " Jul 29,2024 00:00:00",
     countdown = new Date(birthday).getTime(),
     x = setInterval(function(){
         let now = new Date().getTime(),
