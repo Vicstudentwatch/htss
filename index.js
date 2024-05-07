@@ -2,7 +2,7 @@
     const seconds = 1000,
     min = seconds * 60,
     hour = min * 60;
-    day = hour * 24
+    day = hour * 24;
 
 
 
@@ -32,6 +32,6 @@
         
 
     },0)
-}())
+}());
 
 
